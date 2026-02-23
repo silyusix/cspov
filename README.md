@@ -9,6 +9,7 @@
   pip install demoparser2
   ```
 - 下载并安装 [HLAE](https://www.advancedfx.org/)。
+- hlae的命令行输入-insecure -allow_third_party_software +sv_lan 1 -netconport 2121 -noborder 
 
 ### 2. 配置游戏状态集成 (GSI)
 将本仓库中的 `gamestate_integration_pov.cfg` 复制到你的 CS2 游戏目录：
